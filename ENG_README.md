@@ -66,8 +66,6 @@ The next section includes some information about my typical week and how I like 
 
 ## How I Like to Work
 
-
-
 My main task in every week is staying on top of any development that needs to be done. I also like to make sure I have time for mentoring and pairing with other developers (if you ever want to pair, I'd love to do that!). I use Google Calendar to time block out my work, which helps me focus on the most important things. I use [x.ai](http://x.ai) to schedule coffee chats and other small meetings 
 
 What this means is that I spend a good amount of my time in periods of Deep Work (or at least trying to) split up as minimally as possible by meetings around design, feature planning, 1-1 with my manager, and pairing sessions. I used to recommend reading the Maker/Manager Schedule, but Paul G is pretty terrible. I plan to write up a bit about this soon.

@@ -1,4 +1,3 @@
-
 # About Me
 
 ### Heya folks, pleased to meet you!
@@ -7,17 +6,15 @@ I'm Conlin (but some people [call me Wuz](https://twitter.com/CallMeWuz). I'm a 
 
 I have about 1000 hobbies and I am always excited to learn new things! There are a couple of sections here about me in the past, some about me right now, and then a few about my future. Plus at the end, I've included some information about how I like to work and what my average week looks like!
 
-[About Me Tweet from Early 2020](https://twitter.com/CallMeWuz/status/1212430217735819265?s=20)
+[About Me Tweet from 2021](https://twitter.com/CallMeWuz/status/1345345357794963457)
 
-[About Me Tweet from Summer 2020](https://twitter.com/CallMeWuz/status/1270737865899638787)
+**Other About Me Tweets:** [Early 2020](https://twitter.com/CallMeWuz/status/1212430217735819265?s=20) | [Summer 2020](https://twitter.com/CallMeWuz/status/1270737865899638787)
 
 # How I got here
 
 ## [Let's do this one more time](https://www.youtube.com/watch?v=r-dAO5OenO8)
 
 Alright, let's do this one more time. My name is Conlin Durbin and for the past 11-ish years, I've been writing code. I was born in Indiana. I grew up in a town called Greensburg. In high school I did a lot - I was on the swim team, drama club, show choir, speech team, academic team, and I worked at my local library. While I was working there I got my first job writing code, started to learn PHP/Wordpress development and never looked back!
-
-
 
 After that, I went to college, studied Computer Science, hated it. I switched majors to Economics and did software development on the side and really fell in love with the range of subjects that let me study.
 
@@ -30,6 +27,7 @@ After college, I started working at a software company called Mimir in West Lafa
 ## Life by the Accidents
 
 > You learn about life by the accidents you have, over and over again
+
 - Kurt Vonnegut
 
 Now that we are caught up, I'll explain a bit about myself today! Most of my life has been spent jumping from interest to interest, finding the things I like. Life by the accidents, if you will.I am really into learning new things and I have a ton of hobbies that include but are not limited to (in no particular order):
@@ -41,16 +39,17 @@ Now that we are caught up, I'll explain a bit about myself today! Most of my lif
 5. Video Games
 6. Cooking
 7. Listening to and playing music
-8. Talking about any of the above things for *hours*
+8. Talking about any of the above things for _hours_
 
 > Technology is the active human interface with the material world.
+
 - Ursula Le Guin
 
 I spend a lot of my free time thinking and writing about technology and hacking on side projects. At work, I spend most of my time planning architecture, working on the frontend, and helping other engineers push their work forward.
 
 ## The Future
 
-In my personal life, I plan to keep living in Irvington. My partner finished vet school in 2020 and moved here with me. I hope to help make Indianapolis a great place for all kinds of folks. I'll continue to focus on the intersection of art, technology, and community as a way to create better places for everyone! 
+In my personal life, I plan to keep living in Irvington. My partner finished vet school in 2020 and moved here with me. I hope to help make Indianapolis a great place for all kinds of folks. I'll continue to focus on the intersection of art, technology, and community as a way to create better places for everyone!
 
 I frequently pick up new hobbies, but some that I am interested in include gardening, home repair, and bike maintenance.
 
@@ -66,7 +65,7 @@ The next section includes some information about my typical week and how I like 
 
 ## How I Like to Work
 
-My main task in every week is staying on top of any development that needs to be done. I also like to make sure I have time for mentoring and pairing with other developers (if you ever want to pair, I'd love to do that!). I use Google Calendar to time block out my work, which helps me focus on the most important things. I use [x.ai](http://x.ai) to schedule coffee chats and other small meetings 
+My main task in every week is staying on top of any development that needs to be done. I also like to make sure I have time for mentoring and pairing with other developers (if you ever want to pair, I'd love to do that!). I use Google Calendar to time block out my work, which helps me focus on the most important things. I use [x.ai](http://x.ai) to schedule coffee chats and other small meetings
 
 What this means is that I spend a good amount of my time in periods of Deep Work (or at least trying to) split up as minimally as possible by meetings around design, feature planning, 1-1 with my manager, and pairing sessions. I used to recommend reading the Maker/Manager Schedule, but Paul G is pretty terrible. I plan to write up a bit about this soon.
 

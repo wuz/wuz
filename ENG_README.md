@@ -58,7 +58,7 @@ Professionally, I want to keep writing and producing technical content while als
 
 ## Fin
 
-![About%20Me%2082e642a654bc471faf274bc7fe2ca14c/infinite_high_five.gif](About%20Me%2082e642a654bc471faf274bc7fe2ca14c/infinite_high_five.gif)
+![Infinite High Fives](https://i.imgur.com/JZszcEU.gif)
 
 Hopefully, this gives you a bit of an idea of who I am! Come chat with me, message me about grabbing a coffee, or just flag me down at lunchtime! I am always interested in chatting and getting to know more about people.
 

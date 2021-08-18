@@ -22,7 +22,7 @@ I started a startup, turned it into a consultancy, and then killed it when my bu
 
 I helped grow and build the Anvil coworking space at Purdue and was an early founding member of the co-ed entrepreneurship fraternity there.
 
-After college, I started working at a software company called Mimir in West Lafayette, building an application for compiling, running, and grading programming homework for college computer science classes. I jumped to Lessonly after that, worked on a ton of different products initiatives there - all focused around helping people learn and grow in their jobs. Now I work at HackerRank as a senior software engineer, focused mostly on the frontend and our Early Talent offerings!
+After college, I started working at a software company called Mimir in West Lafayette, building an application for compiling, running, and grading programming homework for college computer science classes. I jumped to Lessonly after that, worked on a ton of different products initiatives there - all focused around helping people learn and grow in their jobs. I left that job and spent a little over a year at HackerRank, which was... an experience. After a bunch of things happening that pushed me out of that job, I left and started looking for a new gig! I found out about Figure and loved the mission and the people. I joined the team in July 2021 and have been loving it here!
 
 ## Life by the Accidents
 
@@ -65,7 +65,7 @@ The next section includes some information about my typical week and how I like 
 
 ## How I Like to Work
 
-My main task in every week is staying on top of any development that needs to be done. I also like to make sure I have time for mentoring and pairing with other developers (if you ever want to pair, I'd love to do that!). I use Google Calendar to time block out my work, which helps me focus on the most important things. I use [x.ai](http://x.ai) to schedule coffee chats and other small meetings
+My main task in every week is staying on top of any development that needs to be done. I also like to make sure I have time for mentoring and pairing with other developers (if you ever want to pair, I'd love to do that!). I use Google Calendar to time block out my work, which helps me focus on the most important things. I use Calendly to schedule coffee chats and other small meetings
 
 What this means is that I spend a good amount of my time in periods of Deep Work (or at least trying to) split up as minimally as possible by meetings around design, feature planning, 1-1 with my manager, and pairing sessions. I used to recommend reading the Maker/Manager Schedule, but Paul G is pretty terrible. I plan to write up a bit about this soon.
 

@@ -36,7 +36,7 @@
 
 # Howdy! I'm Wuz!
 
-👨🏻‍💻 Senior Software Engineer at [HackerRank](https://github.com/interviewstreet)
+👨🏻‍💻 Senior Software Engineer at [Figure](https://github.com/figurehr)
 
 📝 Take a look at my [public notes](https://grimoire.garden)
 

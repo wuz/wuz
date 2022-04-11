@@ -6,8 +6,7 @@
                    / \     \
          '        / / \     \
       '  ◌       / /   \    _\
-        ¤ ✦    ▁ \ \▁▁▁▁\    /▁▁             
-       ✦  ◌   /                 \
+        ¤ ✦    ▁ \ \▁▁▁▁\    /▁▁             ✦  ◌   /                 \
       ¤'◌  ✦  \▁▁▁▁﹝〥﹞▁▁▁▁▁▁  \           
         ' ¤    |    ''     |\  \▁ \
       ◞{{{{\__/|    __   〈| \  \  〉
@@ -36,16 +35,16 @@
 
 # Howdy! I'm Wuz!
 
-👨🏻‍💻 Senior Software Engineer at [Figure](https://github.com/figurehr)
+👨🏻‍💻 Senior Software Engineer at [Agora](https://github.com/figurehr)
 
 📝 Take a look at my [public notes](https://grimoire.garden)
 
-🌻 Check out my [engineer README](ENG_README.md)
+🌻 Learn more [about me](ABOUT.md)
 
 ### Around the Web
 
 🌐 [wuz.sh](https://wuz.sh) |
-🐦 [@CallMeWuz](https://twitter.com/CallMeWuz) | 🐙 [wuz](https://github.com/wuz) | 👨🏻‍💼 [wuz](https://linkedin.com/in/wuz)
+🐦 [@HasBeenWizard](https://twitter.com/HasBeenWizard) | 🐙 [wuz](https://github.com/wuz) | 👨🏻‍💼 [wuz](https://linkedin.com/in/wuz)
 
 </td>
 </tr>

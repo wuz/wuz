@@ -40,7 +40,7 @@
 
 📝 Take a look at my [public notes](https://grimoire.garden)
 
-🌻 Check out my [engineer README](ENG_README.md)
+🌻 Check out my [engineer README](ENG_README.md) | [manager README](MAN_README.md)
 
 ### Around the Web
 

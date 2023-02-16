@@ -35,7 +35,7 @@
 
 # Howdy! I'm Wuz!
 
-👨🏻‍💻 Senior Software Engineer at [Agora](https://github.com/getagora)
+👨🏻‍💻 Tech Lead Manager at [Payscale (Agora)](https://github.com/getagora)
 
 📝 Take a look at my [public notes](https://grimoire.garden)
 
@@ -44,7 +44,7 @@
 ### Around the Web
 
 🌐 [wuz.sh](https://wuz.sh) |
-🐦 [@conlindurbin](https://twitter.com/conlindurbin) | 🐙 [wuz](https://github.com/wuz) | 👨🏻‍💼 [wuz](https://linkedin.com/in/wuz)
+🐦 [@wuz_tweets](https://twitter.com/wuz_tweets) | 🐙 [wuz](https://github.com/wuz) | 👨🏻‍💼 [wuz](https://linkedin.com/in/wuz)
 
 </td>
 </tr>

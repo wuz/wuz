@@ -35,16 +35,16 @@
 
 # Howdy! I'm Wuz!
 
-👨🏻‍💻 Tech Lead Manager at [Payscale (Agora)](https://github.com/getagora)
+👨🏻‍💻 Senior Frontend Engineer at [Whatnot](https://whatnot.com)
 
 📝 Take a look at my [public notes](https://grimoire.garden)
 
-🌻 Learn more [about me](ABOUT.md)
+🌻 Learn more [about me](https://wuz.sh/readme)
 
 ### Around the Web
 
 🌐 [wuz.sh](https://wuz.sh) |
-🐦 [@wuz_tweets](https://twitter.com/wuz_tweets) | 🐙 [wuz](https://github.com/wuz) | 👨🏻‍💼 [wuz](https://linkedin.com/in/wuz)
+🐙 [wuz](https://github.com/wuz) | 👨🏻‍💼 [wuz](https://linkedin.com/in/wuz)
 
 </td>
 </tr>

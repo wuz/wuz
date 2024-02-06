@@ -37,8 +37,6 @@
 
 👨🏻‍💻 Senior Frontend Engineer at [Whatnot](https://whatnot.com)
 
-📝 Take a look at my [public notes](https://grimoire.garden)
-
 🌻 Learn more [about me](https://wuz.sh/readme)
 
 ### Around the Web
